@@ -1,0 +1,350 @@
+[
+  {
+    "ContainingType": "Task_Autofficina.Controllers.ClienteController",
+    "Method": "StampaClienti",
+    "RelativePath": "api/clienti",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Task_Autofficina.Models.ClienteDTO, Task_Autofficina, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Task_Autofficina.Controllers.ClienteController",
+    "Method": "InserisciCliente",
+    "RelativePath": "api/clienti",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varNom",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varCogn",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varIndi",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varTel",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varEma",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Task_Autofficina.Models.ClienteDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Task_Autofficina.Controllers.ClienteController",
+    "Method": "UpdateVideoteca",
+    "RelativePath": "api/clienti",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCod",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varNom",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varCogn",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varIndi",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varTel",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varEma",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Task_Autofficina.Models.ClienteDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Task_Autofficina.Controllers.ClienteController",
+    "Method": "CercaPerCodice",
+    "RelativePath": "api/clienti/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Task_Autofficina.Models.ClienteDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Task_Autofficina.Controllers.ClienteController",
+    "Method": "EliminaUtente",
+    "RelativePath": "api/clienti/{varCodice}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_Autofficina.Controllers.VeicoloController",
+    "Method": "StampaVeicoli",
+    "RelativePath": "api/veicoli",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Task_Autofficina.Models.VeicoloDTO, Task_Autofficina, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Task_Autofficina.Controllers.VeicoloController",
+    "Method": "InserisciVeicolo",
+    "RelativePath": "api/veicoli",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodiceCli",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varTar",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varMod",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varMar",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varAnnoImm",
+        "Type": "System.DateOnly",
+        "IsRequired": false
+      },
+      {
+        "Name": "varPrezzoInt",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "varStatoInt",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varDataIng",
+        "Type": "System.DateOnly",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Task_Autofficina.Models.VeicoloDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Task_Autofficina.Controllers.VeicoloController",
+    "Method": "UpdateVeicolo",
+    "RelativePath": "api/veicoli",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCod",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varTar",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varMod",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varMar",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varAnnoImm",
+        "Type": "System.DateOnly",
+        "IsRequired": false
+      },
+      {
+        "Name": "varPrezzoInt",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "varStatoInt",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "varDataIng",
+        "Type": "System.DateOnly",
+        "IsRequired": false
+      },
+      {
+        "Name": "varDataUsc",
+        "Type": "System.DateOnly",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Task_Autofficina.Models.VeicoloDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Task_Autofficina.Controllers.VeicoloController",
+    "Method": "CercaPerCodice",
+    "RelativePath": "api/veicoli/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Task_Autofficina.Models.VeicoloDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Task_Autofficina.Controllers.VeicoloController",
+    "Method": "EliminaVeicolo",
+    "RelativePath": "api/veicoli/{varCodice}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,6 @@
+@Task_Autofficina_HostAddress = http://localhost:5290
+
+GET {{Task_Autofficina_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

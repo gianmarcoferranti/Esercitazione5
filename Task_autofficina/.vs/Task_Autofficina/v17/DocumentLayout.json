@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|c:\\users\\utente\\source\\repos\\task_autofficina\\task_autofficina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|solutionrelative:task_autofficina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|c:\\users\\utente\\source\\repos\\task_autofficina\\task_autofficina\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|solutionrelative:task_autofficina\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|c:\\users\\utente\\source\\repos\\task_autofficina\\task_autofficina\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|solutionrelative:task_autofficina\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|c:\\users\\utente\\source\\repos\\task_autofficina\\task_autofficina\\models\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|solutionrelative:task_autofficina\\models\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|c:\\users\\utente\\source\\repos\\task_autofficina\\task_autofficina\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|solutionrelative:task_autofficina\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|c:\\users\\utente\\source\\repos\\task_autofficina\\task_autofficina\\controllers\\veicolocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|solutionrelative:task_autofficina\\controllers\\veicolocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|c:\\users\\utente\\source\\repos\\task_autofficina\\task_autofficina\\services\\veicoloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|solutionrelative:task_autofficina\\services\\veicoloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|c:\\users\\utente\\source\\repos\\task_autofficina\\task_autofficina\\repos\\veicolorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFEE15D-51A4-48C5-AAE2-5B72AF8993F9}|Task_Autofficina\\Task_Autofficina.csproj|solutionrelative:task_autofficina\\repos\\veicolorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Autofficina\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Program.cs",
+              "RelativeToolTip": "Task_Autofficina\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv0MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:29:43.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Task_Autofficina\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Task_Autofficina\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T19:27:43.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Task_Autofficina\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Task_Autofficina\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:30:10.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Veicolo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Models\\Veicolo.cs",
+              "RelativeDocumentMoniker": "Task_Autofficina\\Models\\Veicolo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Models\\Veicolo.cs",
+              "RelativeToolTip": "Task_Autofficina\\Models\\Veicolo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:07:03.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Task_Autofficina\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Models\\Cliente.cs",
+              "RelativeToolTip": "Task_Autofficina\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:31:13.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VeicoloService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Services\\VeicoloService.cs",
+              "RelativeDocumentMoniker": "Task_Autofficina\\Services\\VeicoloService.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Services\\VeicoloService.cs",
+              "RelativeToolTip": "Task_Autofficina\\Services\\VeicoloService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAvwCMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:46:54.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VeicoloController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Controllers\\VeicoloController.cs",
+              "RelativeDocumentMoniker": "Task_Autofficina\\Controllers\\VeicoloController.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Controllers\\VeicoloController.cs",
+              "RelativeToolTip": "Task_Autofficina\\Controllers\\VeicoloController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAA9wIIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:46:44.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VeicoloRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Repos\\VeicoloRepo.cs",
+              "RelativeDocumentMoniker": "Task_Autofficina\\Repos\\VeicoloRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_Autofficina\\Task_Autofficina\\Repos\\VeicoloRepo.cs",
+              "RelativeToolTip": "Task_Autofficina\\Repos\\VeicoloRepo.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwFIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:48:58.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

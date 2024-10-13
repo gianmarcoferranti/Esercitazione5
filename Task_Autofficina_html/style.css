@@ -1,0 +1,67 @@
+
+#jumbo {
+    background-color: rgba(255, 255, 255, 0.75) ; /* Sfondo trasparente */
+}
+
+.bgh {
+    /* The image used */
+    background-image: url("img/sfondo_autofficina_volante.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height: 100%;
+
+
+}
+
+.bgc {
+    /* The image used */
+    background-image: url("img/sfondo_utofficina_clienti.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height: 100%;
+
+
+}
+
+.bgv {
+    /* The image used */
+    background-image: url("img/sfondo_autofficina_veicoli.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height: 100%;
+
+
+}
+
+
+@media (min-width: 1120px),
+(min-height: 630px) {
+    body {
+        background-size: auto;
+    }
+}
+
